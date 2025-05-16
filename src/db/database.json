@@ -7080,6 +7080,16 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Evento Teste Geração de Markdown",
+              "data": [
+                "16"
+              ],
+              "url": "https://github.com/agenda-tech-brasil/agenda-tech-brasil/issues/591",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         },
