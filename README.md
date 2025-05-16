@@ -61,6 +61,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 30 e 31: [PHP Velho Oeste 2025](https://phpvelhoeste.com.br/) - _Chapecó/SC_ ![presencial]
 - 31: [Tech Hub Conf JF](https://techhubjf.org/conf) - _Juiz De Fora/MG_ ![presencial]
 - 31: [Cumbuca Dev Floripa](https://tech.floripa.br/eventos/cumbuca-dev-floripa/) - _Florianópolis/SC_ ![híbrido]
+- 16: [Evento Teste Geração de Markdown](https://github.com/agenda-tech-brasil/agenda-tech-brasil/issues/591) ![online]
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
